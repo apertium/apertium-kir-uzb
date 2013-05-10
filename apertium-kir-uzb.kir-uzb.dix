@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Dictionary:
+	Sections: 1
+	Entries: 7734
+	Sdefs: 72
+
+-->
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="n" 	c="Noun - Зат есім - Исем - Существительное"/> 
+    <sdef n="v" 	c="Verb - Фигыль - Глагол"/> 
+    <sdef n="vaux" 	c="Auxiliary verbs - Ярдәмче фигыль"/> 
+    <sdef n="pres" 	c="Auxiliary verbs - Ярдәмче фигыль"/> 
+    <sdef n="num" 	c="Numeral - Сан есім - Сан - Числительное"/> 
+    <sdef n="det" 	c="Determiner"/> 
+    <sdef n="np" 	c="Proper noun - Имя собственное"/> 
+    <sdef n="prn" 	c="Местоимение"/> 
+    <sdef n="adv" 	c="Adverb - Үстеу - Рәвеш - Наречие"/> 
+    <sdef n="post" 	c="Postposition - Бәйлек - Септеулік шылау - Послелог"/> 
+    <sdef n="part" 	c="Частица"/> 
+    <sdef n="postadv" 	c="Postadverb - /Артүстеу/ - /Артрәвеш/ - /Посленаречие/"/> 
+    <sdef n="adj" 	c="Adjective - Сын есім - Сыйфат - Прилагательное"/> 
+    <sdef n="cnjcoo" 	c="Coordinating conjunction - жалғаулық шылау - Тезүче теркәгеч - Сочинительный союз"/> 
+    <sdef n="cnjsub" 	c="Subordinating conjunction - жалғаулық шылау - Ияртүче теркәгеч - Подчинительный союз"/> 
+    <sdef n="cnjadv" 	c="Conjunctional adverb ~ Относительные слова"/> 
+    <sdef n="pred" 	c="Predicative - Хәбәрлек сүз - Предикативное слово ! var, yok; мәҗбүр"/> 
+    <sdef n="abbr" 	c="Abbreviation"/> 
+    <sdef n="cop" 	c="Copula"/> 
+    <sdef n="ij" 	c="Interjection - Одағай - Ымлык - Междометие"/> 
+    <sdef n="qst" 	c="Question modal particle (cltic)"/> 
+    <sdef n="emph" 	c="Polite emphatic particle used with imperatives (cltic)"/> 
+    <sdef n="mod_ass" 	c="Assertive modal particle (clitic)"/> 
+    <sdef n="mod_ind" 	c="Indefinite modal particle (clitic)"/> 
+    <sdef n="mod" 	c="Modal verbs"/> 
+    <sdef n="pers" 	c="Personal - Зат (алмашлыгы) - Личное (местоимение)"/> 
+    <sdef n="itg" 	c="Interrogative"/> 
+    <sdef n="neg" 	c="Negative"/> 
+    <sdef n="ref" 	c="Reflexive"/> 
+    <sdef n="qnt" 	c="Quantifier"/> 
+    <sdef n="dem" 	c="Demonstrative"/> 
+    <sdef n="ind" 	c="Indefinite"/> 
+    <sdef n="subst" 	c="Substantivized"/> 
+    <sdef n="attr" 	c="Attributive"/> 
+    <sdef n="advl" 	c="Adverbial"/> 
+    <sdef n="top" 	c="Toponym"/> 
+    <sdef n="ant" 	c="Anthroponym"/> 
+    <sdef n="pat" 	c="Patronym"/> 
+    <sdef n="cog" 	c="Cognomen"/> 
+    <sdef n="org" 	c="Organization name"/> 
+    <sdef n="al" 	c="Other"/> 
+    <sdef n="m" 	c="Мужской род"/> 
+    <sdef n="mf" 	c="Мужской или женский род"/> 
+    <sdef n="f" 	c="Женский род"/> 
+    <sdef n="iv" 	c="Intransitive"/> 
+    <sdef n="tv" 	c="Transitive"/> 
+    <sdef n="TD" 	c="Not defined in kaz.lexc"/> 
+    <sdef n="caus" 	c=""/> 
+    <sdef n="coop" 	c=""/> 
+    <sdef n="pass" 	c=""/> 
+    <sdef n="p1" 	c=""/> 
+    <sdef n="p2" 	c=""/> 
+    <sdef n="p3" 	c=""/> 
+    <sdef n="frm" 	c=""/> 
+    <sdef n="sg" 	c=""/> 
+    <sdef n="pl" 	c=""/> 
+    <sdef n="sp" 	c=""/> 
+    <sdef n="guio" 	c=""/> 
+    <sdef n="cm" 	c=""/> 
+    <sdef n="sent" 	c=""/> 
+    <sdef n="lpar" 	c=""/> 
+    <sdef n="rpar" 	c=""/> 
+    <sdef n="lquot" 	c=""/> 
+    <sdef n="rquot" 	c=""/> 
+    <sdef n="apos" 	c=""/> 
+    <sdef n="px" 	c=""/> 
+    <sdef n="ger" 	c=""/> 
+    <sdef n="ord" 	c=""/> 
+    <sdef n="loc" 	c=""/> 
+    <sdef n="sim" 	c=""/> 
+    <sdef n="gpr_pot" 	c=""/> 
+    <sdef n="gpr_past" 	c=""/> 
+    <sdef n="prc_perf" 	c=""/> 
+  </sdefs>
+  <section id="main" type="standard">
+
+
+<!-- SECTION: Copula -->
+
+
+<e>       <p><l>э<s n="cop"/></l>                 <r>e<s n="cop"/></r></p></e>
+
+
+<!-- SECTION: Modal/discourse particles (Clitics) -->
+
+
+<!-- SECTION: Co-ordinating conjunctions -->
+
+    <!-- Соединительные -->
+
+<e>       <p><l>жана<s n="cnjcoo"/></l>             <r>va<s n="cnjcoo"/></r></p></e>
+
+<!-- SECTION: Postadverbs -->
+
+
+<!-- SECTION: Postpositions -->
+
+<!-- SECTION: Numerals -->
+<!-- SECTION: Pronouns -->
+<!-- SECTION: Determiners -->
+
+<!-- SECTION: Nouns -->
+
+
+<e>       <p><l>үй<s n="n"/></l>               <r>uy<s n="n"/></r></p></e> <!--"house"-->
+<!--SECTION: Adjectives -->
+<!-- SECTION: Adverbs -->
+
+<!-- SECTION: Verbs -->
+
+
+<!-- SECTION: Interjections -->
+
+<!-- SECTION: Abbreviations -->
+
+
+<!-- SECTION: Punctuation -->
+
+
+<e>       <p><l>,<s n="cm"/></l>                  <r>,<s n="cm"/></r></p></e>
+<e>       <p><l>(<s n="lpar"/></l>                <r>(<s n="lpar"/></r></p></e>
+<e>       <p><l>)<s n="rpar"/></l>                <r>)<s n="rpar"/></r></p></e>
+<e>       <p><l>[<s n="lpar"/></l>                <r>[<s n="lpar"/></r></p></e>
+<e>       <p><l>]<s n="rpar"/></l>                <r>]<s n="rpar"/></r></p></e>
+<e>       <p><l>«<s n="lquot"/></l>               <r>«<s n="lquot"/></r></p></e>
+<e>       <p><l>»<s n="rquot"/></l>               <r>»<s n="rquot"/></r></p></e>
+<e>       <p><l>“<s n="lquot"/></l>               <r>“<s n="lquot"/></r></p></e>
+<e>       <p><l>”<s n="rquot"/></l>               <r>”<s n="rquot"/></r></p></e>
+<e>       <p><l>-<s n="guio"/></l>                <r>-<s n="guio"/></r></p></e>
+<e>       <p><l>—<s n="guio"/></l>                <r>—<s n="guio"/></r></p></e>
+<e>       <p><l>'<s n="apos"/></l>                <r>'<s n="apos"/></r></p></e>
+<e>       <re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+<e>       <re>[№%]?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
+
+  </section>
+</dictionary>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="uzb-kir" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kir.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.uzb-kir.t1x"/>
+        <file name="uzb-kir.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.uzb-kir.t2x"/>
+        <file name="uzb-kir.t2x.bin"/>
+      </program>
+      <program name="hfst-proc $1">
+        <file name="uzb-kir.autogen.hfst"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="uzb-kir.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kir-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.uzb-kir.t1x"/>
+        <file name="uzb-kir.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.uzb-kir.t2x"/>
+        <file name="uzb-kir.t2x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="uzb-kir.autogen.hfst"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="uzb-kir.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  
+  <mode name="uzb-kir-morph" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kir-tagger" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kir-biltrans" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kir-lex" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="uzb-kir.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="uzb-kir-transfer" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kir.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.uzb-kir.t1x"/>
+        <file name="uzb-kir.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-kir-transfer2" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-kir.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="uzb-kir.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-kir.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-kir.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.uzb-kir.t1x"/>
+        <file name="uzb-kir.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.uzb-kir.t2x"/>
+        <file name="uzb-kir.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  
+  <mode name="kir-uzb" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kir-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.kir-uzb.t1x"/>
+        <file name="kir-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.kir-uzb.t2x"/>
+        <file name="kir-uzb.t2x.bin"/>
+      </program>
+      <program name="hfst-proc $1">
+        <file name="kir-uzb.autogen.hfst"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kir-uzb.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kir-uzb-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.kir-uzb.t1x"/>
+        <file name="kir-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.kir-uzb.t2x"/>
+        <file name="kir-uzb.t2x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="kir-uzb.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  
+  <mode name="kir-uzb-morph" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kir-uzb-tagger" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="kir-uzb-biltrans" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kir-uzb-lex" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="kir-uzb.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="kir-uzb-transfer" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kir-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.kir-uzb.t1x"/>
+        <file name="kir-uzb.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kir-uzb-transfer2" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="kir-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kir-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kir-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kir-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kir-uzb.kir-uzb.t1x"/>
+        <file name="kir-uzb.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kir-uzb.kir-uzb.t2x"/>
+        <file name="kir-uzb.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+</modes>
+
+
