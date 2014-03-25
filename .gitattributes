@@ -7,24 +7,15 @@
 /README -text
 /apertium-kir-uzb.kir-uzb.dix -text
 /apertium-kir-uzb.kir-uzb.lrx -text
-/apertium-kir-uzb.kir-uzb.rlx -text
 /apertium-kir-uzb.kir-uzb.t1x -text
 /apertium-kir-uzb.kir-uzb.t2x -text
-/apertium-kir-uzb.kir.lexc -text
-/apertium-kir-uzb.kir.twol -text
-/apertium-kir-uzb.post-kir.dix -text
-/apertium-kir-uzb.post-uzb.dix -text
 /apertium-kir-uzb.uzb-kir.lrx -text
-/apertium-kir-uzb.uzb-kir.rlx -text
 /apertium-kir-uzb.uzb-kir.t1x -text
 /apertium-kir-uzb.uzb-kir.t2x -text
-/apertium-kir-uzb.uzb.lexc -text
-/apertium-kir-uzb.uzb.twol -text
 /apertium-tur-uzb.tur-uzb.lrx -text
 /autogen.sh -text
 /configure.ac -text
 /kir-uzb.prob -text svneol=unset#unset
 /modes.xml -text
 texts/rasskaz.kir.txt -text svneol=unset#application/octet-stream
-/update-morphs.bash -text
 /uzb-kir.prob -text svneol=unset#unset
