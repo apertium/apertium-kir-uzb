@@ -17,5 +17,6 @@
 /configure.ac -text
 /kir-uzb.prob -text svneol=unset#unset
 /modes.xml -text
+texts/rasskaz.kir-uzb.txt -text
 texts/rasskaz.kir.txt -text svneol=unset#application/octet-stream
 /uzb-kir.prob -text svneol=unset#unset
