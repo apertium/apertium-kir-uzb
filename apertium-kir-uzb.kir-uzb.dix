@@ -101,6 +101,10 @@
 
 <e>       <p><l>жана<s n="cnjcoo"/></l>             <r>va<s n="cnjcoo"/></r></p></e>
 
+    <!-- Противительные -->
+
+<e>       <p><l>бирок<s n="cnjcoo"/></l>            <r>lekin<s n="cnjcoo"/></r></p></e>
+
 <!-- SECTION: Postadverbs -->
 
 
@@ -108,16 +112,121 @@
 
 <!-- SECTION: Numerals -->
 <!-- SECTION: Pronouns -->
+
+    <!-- Personal pronouns --> <!-- FIXME:CHECK: JNW, please have a look -->
+
+<e>       <p><l>мен<s n="prn"/><s n="pers"/></l>                                            <r>men<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>сен<s n="prn"/><s n="pers"/></l>                                            <r>sen<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>ал<s n="prn"/><s n="pers"/></l>                                             <r>u<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>биз<s n="prn"/><s n="pers"/></l>                                            <r>biz<s n="prn"/><s n="pers"/></r></p></e>
+<e>       <p><l>силер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l>                    <r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+<e>       <p><l>алар<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l>                     <r>ular<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+
+<e>       <p><l>сиз<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="frm"/></l>          <r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+<e>       <p><l>сиздер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/></l>       <r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+
+    <!-- Demonstrative pronouns -->
+
+<!--e>       <p><l>бул<s n="prn"/><s n="dem"/></l>    <r><s n="prn"/><s n="dem"/></r></p></e>
+<e>       <p><l>ал<s n="prn"/><s n="dem"/></l>     <r><s n="prn"/><s n="dem"/></r></p></e-->
+<e>       <p><l>ушул<s n="prn"/><s n="dem"/></l>   <r>shu<s n="prn"/><s n="dem"/></r></p></e>
+<!--e>       <p><l>ошол<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e>
+<e>       <p><l>тиги<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e>
+<e>       <p><l>мына<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e--> <!--FIXME--> <!--Check the version in Kyrgyz transducer-->
+
+
 <!-- SECTION: Determiners -->
+
+    <!-- Demonstrative determiners -->
+
+<!--e>       <p><l>тиги<s n="det"/><s n="dem"/></l>           <r>тиги<s n="det"/><s n="dem"/></r></p></e> 
+<e>       <p><l>алиги<s n="det"/><s n="dem"/></l>          <r>алиги<s n="det"/><s n="dem"/></r></p></e--> 
+<!--e>       <p><l>бул<s n="det"/><s n="dem"/></l>            <r>бул<s n="det"/><s n="dem"/></r></p></e--><!-- бу and бул -->
+<!--e>       <p><l>мына<b/>бу<s n="det"/><s n="dem"/></l>     <r>мына<b/>бу<s n="det"/><s n="dem"/></r></p></e> 
+<e>       <p><l>ал<s n="det"/><s n="dem"/></l>             <r>ал<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>ушул<s n="det"/><s n="dem"/></l>           <r>ушул<s n="det"/><s n="dem"/></r></p></e--><!-- ушу and ушул -->
+<!--e>       <p><l>ошол<s n="det"/><s n="dem"/></l>           <r>ошол<s n="det"/><s n="dem"/></r></p></e--><!-- ошо and ошол -->
+<!--e>       <p><l>тиги<s n="det"/><s n="dem"/></l>           <r>тиги<s n="det"/><s n="dem"/></r></p></e--><!-- тиги and тигил -->
+<!--e>       <p><l>тетиги<s n="det"/><s n="dem"/></l>         <r>тетиги<s n="det"/><s n="dem"/></r></p></e-->
+
+<e>       <p><l>кай<s n="det"/><s n="dem"/></l>           <r>qay<s n="det"/><s n="dem"/></r></p></e>
+<!--e>       <p><l>кайсы<s n="det"/><s n="dem"/></l>         <r> <s n="det"/><s n="dem"/></r></p></e-->
+
+    <!-- Quantifying (definite) determiners -->
+
+<!--e>       <p><l>ар<b/>бир<s n="det"/><s n="qnt"/></l>      <r>ар<b/>бир<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>ар<b/>түрдүү<s n="det"/><s n="qnt"/></l>   <r>ар<b/>түрдүү<s n="det"/><s n="qnt"/></r></p></e--> <!--FIXME--> <!--check this in Kyrgyz transducer-->
+<!--e>       <p><l>бардык<s n="det"/><s n="qnt"/></l>         <r>бардык<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>бир<b/>катар<s n="det"/><s n="qnt"/></l>   <r>бир<b/>катар<s n="det"/><s n="qnt"/></r></p></e--> <!-- FIXME:CHECK -->
+<!--e>       <p><l>бир<b/>нече<s n="det"/><s n="qnt"/></l>    <r>бир<b/>нече<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>бүткүл<s n="det"/><s n="qnt"/></l>         <r>бүткүл<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>көптөгөн<s n="det"/><s n="qnt"/></l>       <r>көптөгөн<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>канча<s n="det"/><s n="qnt"/></l>          <r>канча<s n="det"/><s n="qnt"/></r></p></e>
+
+<e>       <p><l>ондогон<s n="det"/><s n="qnt"/></l>        <r>ондогон<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>жүздөгөн<s n="det"/><s n="qnt"/></l>       <r>жүздөгөн<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>миңдеген<s n="det"/><s n="qnt"/></l>       <r>миңдеген<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>он<b/>миңдеген<s n="det"/><s n="qnt"/></l> <r>он<b/>миңдеген<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>миллиондогон<s n="det"/><s n="qnt"/></l>   <r>миллиондогон<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>миллиарддаган<s n="det"/><s n="qnt"/></l>  <r>миллиарддаган<s n="det"/><s n="qnt"/></r></p></e-->
+
 
 <!-- SECTION: Nouns -->
 
+<e>       <p><l>аба<b/>ырайы<s n="n"/></l>         <r>ob-havo<s n="n"/></r></p></e> <!--"whether,climate"-->
+<e>       <p><l>бакча<s n="n"/></l>                <r>bog<s n="n"/></r></p></e> <!--"garden"-->
+<e>       <p><l>үй<s n="n"/></l>                   <r>uy<s n="n"/></r></p></e> <!--"house"-->
+<e>       <p><l>себеп<s n="n"/></l>                <r>sabab<s n="n"/></r></p></e> <!--"reason, cause"-->
+<e>       <p><l>эшик<s n="n"/></l>                 <r>eshik<s n="n"/></r></p></e> <!--"door"-->
 
-<e>       <p><l>үй<s n="n"/></l>               <r>uy<s n="n"/></r></p></e> <!--"house"-->
+
+	<!-- Anthroponyms -->
+
+<e>       <p><l>Азамат<s n="np"/><s n="ant"/><s n="m"/></l>     <r>Azamat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e>       <p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l>      <r>Aygul<s n="np"/><s n="ant"/><s n="f"/></r></p></e> <!--"Aygül"-->
+
+
 <!--SECTION: Adjectives -->
+
+    <!-- A4 adj. -->
+
+        <!-- Toponyms + LIK -->
+        <!-- FIXME there is a better way of handling them, find it!
+             (note that they all are ambigious between adj/n) -->
+
+        <!-- Other -->
+
+    <!-- A3 adj., adj.subst. -->
+
+    <!-- A2 adj.(comp), adj.(comp).subst -->
+
+    <!-- A1 adj.(comp), adj.(comp).advl, adj.(comp).subst,
+         and when not sure where exactly an adjective belongs -->
+
+<e>       <p><l>жакшы<s n="adj"/></l>              <r>yaxshi<s n="adj"/></r></p></e> <!-- "good"-->
+<e>       <p><l>жылуу<s n="adj"/></l>              <r>issiq<s n="adj"/></r></p></e> <!-- "warm"-->
+<e>       <p><l>суук<s n="adj"/></l>               <r>sovuq<s n="adj"/></r></p></e> <!-- "cold"-->
+
+
 <!-- SECTION: Adverbs -->
 
+    <!-- "Interrogative adverbs", "pronoun-adverbs" -->
+
+    <!-- More or less regular stuff -->
+
+<e>       <p><l>абдан<s n="adv"/></l>               <r>juda<s n="adv"/></r></p></e> <!-- "very" -->
+<e>       <p><l>аябай<s n="adv"/></l>               <r>juda<s n="adv"/></r></p></e> <!--"very"-->
+<e>       <p><l>бүгүн<s n="adv"/></l>               <r>bugun<s n="adv"/></r></p></e> <!-- today -->
+
+    <!-- Adverbs wich take -KI and become an attr/adj -->
+
+<e>       <p><l>кече<s n="adv"/></l>               <r>kecha<s n="adv"/></r></p></e> <!-- "yesterday > yesterday's" --> <!--TODO in kyrgyz these forms should rewritten кече, кечөө, кечээ-->
+
 <!-- SECTION: Verbs -->
+
+<e>       <p><l>жүр<s n="v"/><s n="iv"/></l>      <r>yur<s n="v"/><s n="iv"/></r></p></e><!-- "go about" -->
+<e>       <p><l>ойно<s n="v"/><s n="iv"/></l>     <r>uyna<s n="v"/><s n="iv"/></r></p></e> <!-- "play" -->
+<e>       <p><l>ойно<s n="v"/><s n="tv"/></l>     <r>uyna<s n="v"/><s n="tv"/></r></p></e> <!-- "play" -->
 
 
 <!-- SECTION: Interjections -->
