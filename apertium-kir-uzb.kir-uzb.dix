@@ -100,6 +100,7 @@
     <!-- Соединительные -->
 
 <e>       <p><l>жана<s n="cnjcoo"/></l>             <r>va<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>дагы<s n="cnjcoo"/></l>             <r>ham<s n="cnjcoo"/></r></p></e>
 
     <!-- Противительные -->
 
@@ -110,7 +111,77 @@
 
 <!-- SECTION: Postpositions -->
 
+<e>       <p><l>менен<s n="post"/></l>              <r>bilan<s n="post"/></r></p></e>
+
+
 <!-- SECTION: Numerals -->
+
+<e>       <p><l>ноль<s n="num"/></l>               <r>nol<s n="num"/></r></p></e>
+<e>       <p><l>бир<s n="num"/></l>                <r>bir<s n="num"/></r></p></e>
+<e>       <p><l>эки<s n="num"/></l>                <r>ikki<s n="num"/></r></p></e>
+<e>       <p><l>үч<s n="num"/></l>                 <r>uch<s n="num"/></r></p></e>
+<e>       <p><l>төрт<s n="num"/></l>               <r>to'rt<s n="num"/></r></p></e>
+<e>       <p><l>беш<s n="num"/></l>                <r>besh<s n="num"/></r></p></e>
+<e>       <p><l>алты<s n="num"/></l>               <r>olti<s n="num"/></r></p></e>
+<e>       <p><l>жети<s n="num"/></l>               <r>yetti<s n="num"/></r></p></e>
+<e>       <p><l>сегиз<s n="num"/></l>              <r>sakkiz<s n="num"/></r></p></e>
+<e>       <p><l>тогуз<s n="num"/></l>              <r>to'qqiz<s n="num"/></r></p></e>
+<e>       <p><l>он<s n="num"/></l>                 <r>o'n<s n="num"/></r></p></e>
+
+<!--e>       <p><l>он<b/>бир<s n="num"/></l>          <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>эки<s n="num"/></l>          <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>үч<s n="num"/></l>           <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>төрт<s n="num"/></l>         <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>беш<s n="num"/></l>          <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>алты<s n="num"/></l>         <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>жети<s n="num"/></l>         <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>сегиз<s n="num"/></l>        <r> <s n="num"/></r></p></e>
+<e>       <p><l>он<b/>тогуз<s n="num"/></l>        <r> <s n="num"/></r></p></e-->
+
+<e>       <p><l>жыйырма<s n="num"/></l>            <r>yigirma<s n="num"/></r></p></e>
+<e>       <p><l>отуз<s n="num"/></l>               <r>o'ttiz<s n="num"/></r></p></e>
+<e>       <p><l>кырк<s n="num"/></l>               <r>qirq<s n="num"/></r></p></e>
+<e>       <p><l>элүү<s n="num"/></l>               <r>ellik<s n="num"/></r></p></e>
+<e>       <p><l>алтымыш<s n="num"/></l>            <r>oltmish<s n="num"/></r></p></e>
+<e>       <p><l>жетимиш<s n="num"/></l>            <r>yetmish<s n="num"/></r></p></e>
+<e>       <p><l>сексен<s n="num"/></l>             <r>sakson<s n="num"/></r></p></e>
+<e>       <p><l>токсон<s n="num"/></l>             <r>to'qson<s n="num"/></r></p></e>
+<e>       <p><l>жүз<s n="num"/></l>                <r>yuz<s n="num"/></r></p></e>
+
+<e>       <p><l>миң<s n="num"/></l>                <r>ming<s n="num"/></r></p></e> <!-- "thousand" -->
+<!--e>       <p><l>сан<b/>жеткис<s n="num"/></l>      <r> <s n="num"/></r></p></e--> <!-- "archaic for 10 000" -->
+<e>       <p><l>миллион<s n="num"/></l>            <r>million<s n="num"/></r></p></e> <!-- "million" -->
+<e>       <p><l>миллиард<s n="num"/></l>           <r>milliard<s n="num"/></r></p></e> <!-- "billion" -->
+<e>       <p><l>триллион<s n="num"/></l>           <r>trillion<s n="num"/></r></p></e> <!-- "thrillion" -->
+
+<e>       <p><l>I<s n="num"/></l>                 <r>I<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>II<s n="num"/></l>                <r>II<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>III<s n="num"/></l>               <r>III<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>IV<s n="num"/></l>                <r>IV<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>V<s n="num"/></l>                 <r>V<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>VI<s n="num"/></l>                <r>VI<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>VII<s n="num"/></l>               <r>VII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>VIII<s n="num"/></l>              <r>VIII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>IX<s n="num"/></l>                <r>IX<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>X<s n="num"/></l>                 <r>X<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XI<s n="num"/></l>                <r>XI<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XII<s n="num"/></l>               <r>XII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XIII<s n="num"/></l>              <r>XIII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XIV<s n="num"/></l>               <r>XIV<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XV<s n="num"/></l>                <r>XV<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XVI<s n="num"/></l>               <r>XVI<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XVII<s n="num"/></l>              <r>XVII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XVIII<s n="num"/></l>             <r>XVIII<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XIX<s n="num"/></l>               <r>XIX<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XX<s n="num"/></l>                <r>XX<s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>XXI<s n="num"/></l>               <r>XXI<s n="num"/></r></p></e> <!-- "" -->
+
+<e>       <p><l>нече<s n="num"/></l>              <r> <s n="num"/></r></p></e> <!-- "" -->
+<e>       <p><l>канча<s n="num"/></l>             <r> <s n="num"/></r></p></e> <!-- "" -->
+<!-- e>       <p><l>біреу<s n="num"/><s n="coll"/></l>     <r>бирөө<s n="num"/><s n="coll"/></r></p></e -->
+<!-- e>       <p><l>екеу<s n="num"/><s n="coll"/></l>      <r>экөө<s n="num"/><s n="coll"/></r></p></e -->
+
+
 <!-- SECTION: Pronouns -->
 
     <!-- Personal pronouns --> <!-- FIXME:CHECK: JNW, please have a look -->
@@ -174,7 +245,13 @@
 <!-- SECTION: Nouns -->
 
 <e>       <p><l>аба<b/>ырайы<s n="n"/></l>         <r>ob-havo<s n="n"/></r></p></e> <!--"whether,climate"-->
+<e>       <p><l>алд<s n="n"/></l>                  <r>old<s n="n"/></r></p></e> <!--"front"-->
 <e>       <p><l>бакча<s n="n"/></l>                <r>bog<s n="n"/></r></p></e> <!--"garden"-->
+<e>       <p><l>бала<s n="n"/></l>                 <r>bola<s n="n"/></r></p></e> <!--"child"-->
+<e>       <p><l>жаш<s n="n"/></l>                  <r>yosh<s n="n"/></r></p></e> <!--"age"-->
+<e>       <p><l>карындаш<s n="n"/></l>             <r>singlim<s n="n"/></r></p></e> <!--"younger sister"-->
+<e>       <p><l>күчүк<s n="n"/></l>                <r>kuchuk<s n="n"/></r></p></e> <!--"small dog / puppy"-->
+<e>       <p><l>кыз<s n="n"/></l>                  <r>qiz<s n="n"/></r></p></e> <!--"girl"-->
 <e>       <p><l>үй<s n="n"/></l>                   <r>uy<s n="n"/></r></p></e> <!--"house"-->
 <e>       <p><l>себеп<s n="n"/></l>                <r>sabab<s n="n"/></r></p></e> <!--"reason, cause"-->
 <e>       <p><l>эшик<s n="n"/></l>                 <r>eshik<s n="n"/></r></p></e> <!--"door"-->
@@ -198,7 +275,12 @@
 
     <!-- A3 adj., adj.subst. -->
 
+<e>       <p><l>жашар<s n="adj"/></l>             <r>yillik<s n="adj"/></r></p></e> <!-- "small"  -->
+<e>       <p><l>бар<s n="adj"/></l>               <r>bor<s n="adj"/></r></p></e> <!-- ""  -->
+
     <!-- A2 adj.(comp), adj.(comp).subst -->
+
+<e>       <p><l>кичинекей<s n="adj"/></l>             <r>kichkina<s n="adj"/></r></p></e> <!-- "small"  -->
 
     <!-- A1 adj.(comp), adj.(comp).advl, adj.(comp).subst,
          and when not sure where exactly an adjective belongs -->
@@ -206,6 +288,7 @@
 <e>       <p><l>жакшы<s n="adj"/></l>              <r>yaxshi<s n="adj"/></r></p></e> <!-- "good"-->
 <e>       <p><l>жылуу<s n="adj"/></l>              <r>issiq<s n="adj"/></r></p></e> <!-- "warm"-->
 <e>       <p><l>суук<s n="adj"/></l>               <r>sovuq<s n="adj"/></r></p></e> <!-- "cold"-->
+<e>       <p><l>чоң<s n="adj"/></l>                <r>katta<s n="adj"/></r></p></e> <!-- "big"-->
 
 
 <!-- SECTION: Adverbs -->
@@ -215,8 +298,12 @@
     <!-- More or less regular stuff -->
 
 <e>       <p><l>абдан<s n="adv"/></l>               <r>juda<s n="adv"/></r></p></e> <!-- "very" -->
+<e>       <p><l>азыр<s n="adv"/></l>                <r>hozir<s n="adv"/></r></p></e> <!-- "now" -->
 <e>       <p><l>аябай<s n="adv"/></l>               <r>juda<s n="adv"/></r></p></e> <!--"very"-->
 <e>       <p><l>бүгүн<s n="adv"/></l>               <r>bugun<s n="adv"/></r></p></e> <!-- today -->
+<e>       <p><l>дайыма<s n="adv"/></l>              <r>doimo<s n="n"/></r></p></e> <!-- constantly -->
+<e>       <p><l>чогуу<s n="adv"/></l>               <r>birga<s n="adv"/></r></p></e> <!-- together -->
+<e>       <p><l>эми<s n="adv"/></l>                 <r>endi<s n="adv"/></r></p></e> <!-- now -->
 
     <!-- Adverbs wich take -KI and become an attr/adj -->
 
@@ -227,6 +314,7 @@
 <e>       <p><l>жүр<s n="v"/><s n="iv"/></l>      <r>yur<s n="v"/><s n="iv"/></r></p></e><!-- "go about" -->
 <e>       <p><l>ойно<s n="v"/><s n="iv"/></l>     <r>uyna<s n="v"/><s n="iv"/></r></p></e> <!-- "play" -->
 <e>       <p><l>ойно<s n="v"/><s n="tv"/></l>     <r>uyna<s n="v"/><s n="tv"/></r></p></e> <!-- "play" -->
+<e>       <p><l>көр<s n="v"/><s n="tv"/></l>      <r>kor<s n="v"/><s n="tv"/></r></p></e> <!-- "play" -->
 
 
 <!-- SECTION: Interjections -->
