@@ -230,8 +230,13 @@
 
     <!-- Negative pronouns -->
 
-<!--e>       <p><l>эч<b/>ким<s n="prn"/><s n="neg"/></l>     <r><s n="prn"/><s n="neg"/></r></p></e>
-<e>       <p><l>эч<b/>нерсе<s n="prn"/><s n="neg"/></l>   <r><s n="prn"/><s n="neg"/></r></p></e-->
+<e>       <p><l>эч<b/>кайда<s n="prn"/><s n="neg"/></l>   <r>hech<b/>qaerda<s n="prn"/><s n="neg"/></r></p></e> <!-- nowhere -->
+<e>       <p><l>эч<b/>кайсы<s n="prn"/><s n="neg"/></l>   <r>hech<b/>qaysi<s n="prn"/><s n="neg"/></r></p></e> <!-- neither -->
+<e>       <p><l>эч<b/>кандай<s n="prn"/><s n="neg"/></l>  <r>hech<b/>qanday<s n="prn"/><s n="neg"/></r></p></e> <!-- not any -->
+<e>       <p><l>эч<b/>канча<s n="prn"/><s n="neg"/></l>   <r>hech<b/>qancha<s n="prn"/><s n="neg"/></r></p></e> <!-- not at all -->
+<e>       <p><l>эч<b/>качан<s n="prn"/><s n="neg"/></l>   <r>hech<b/>qachon<s n="prn"/><s n="neg"/></r></p></e> <!-- never -->
+<e>       <p><l>эч<b/>ким<s n="prn"/><s n="neg"/></l>     <r>hech<b/>kim<s n="prn"/><s n="neg"/></r></p></e> <!-- nobody -->
+<e>       <p><l>эч<b/>нерсе<s n="prn"/><s n="neg"/></l>   <r>hech<b/>nima<s n="prn"/><s n="neg"/></r></p></e> <!-- nothing -->
 
     <!-- Reflexive pronouns -->
 
@@ -370,7 +375,7 @@
 
 <!-- SECTION: Verbs -->
 
-<!--e>       <p><l>бар<s n="v"/><s n="iv"/></l>      <r>yur<s n="v"/><s n="iv"/></r></p></e--> <!--"go"  -->
+<e>       <p><l>бар<s n="v"/><s n="iv"/></l>        <r>bor<s n="v"/><s n="iv"/></r></p></e> <!--"go"  -->
 <e>       <p><l>бил<s n="v"/><s n="tv"/></l>        <r>bil<s n="v"/><s n="tv"/></r></p></e> <!-- "to know" -->
 <e>       <p><l>жап<s n="v"/><s n="tv"/></l>        <r>yop<s n="v"/><s n="tv"/></r></p></e> <!-- "to close" -->
 <e>       <p><l>жат<s n="v"/><s n="iv"/></l>        <r>yot<s n="v"/><s n="iv"/></r></p></e><!-- "lie" -->
@@ -381,6 +386,7 @@
 <e>       <p><l>кара<s n="v"/><s n="iv"/></l>       <r>qara<s n="v"/><s n="iv"/></r></p></e> <!-- "to look" -->
 <e>       <p><l>көр<s n="v"/><s n="tv"/></l>        <r>kor<s n="v"/><s n="tv"/></r></p></e> <!-- "to see" -->
 <e>       <p><l>отур<s n="v"/><s n="iv"/></l>       <r>o'tir<s n="v"/><s n="iv"/></r></p></e> <!--"to sit"  -->
+<e>       <p><l>тур<s n="v"/><s n="iv"/></l>        <r>tur<s n="v"/><s n="iv"/></r></p></e> <!--"to stand"  -->
 <e>       <p><l>укта<s n="v"/><s n="iv"/></l>       <r>uxla<s n="v"/><s n="iv"/></r></p></e> <!--"sleep"  -->
 <e>       <p><l>чурка<s n="v"/><s n="iv"/></l>      <r>yugur<s n="v"/><s n="iv"/></r></p></e> <!--"to run"  -->
 
