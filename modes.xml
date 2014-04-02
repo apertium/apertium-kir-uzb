@@ -23,8 +23,8 @@
         <file name="apertium-kir-uzb.uzb-kir.t2x"/>
         <file name="uzb-kir.t2x.bin"/>
       </program>
-      <program name="hfst-proc $1">
-        <file name="uzb-kir.autogen.hfst"/>
+      <program name="lt-proc $1">
+        <file name="uzb-kir.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
         <file name="uzb-kir.autopgen.bin"/>
@@ -52,8 +52,8 @@
         <file name="apertium-kir-uzb.uzb-kir.t2x"/>
         <file name="uzb-kir.t2x.bin"/>
       </program>
-      <program name="hfst-proc -d">
-        <file name="uzb-kir.autogen.hfst"/>
+      <program name="lt-proc -d">
+        <file name="uzb-kir.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
         <file name="uzb-kir.autopgen.bin"/>
@@ -167,8 +167,8 @@
   
   <mode name="kir-uzb" install="yes">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc  -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -199,8 +199,8 @@
 
   <mode name="kir-uzb-debug" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc  -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -226,16 +226,16 @@
   
   <mode name="kir-uzb-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <mode name="kir-uzb-tagger" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc  -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -246,8 +246,8 @@
 
   <mode name="kir-uzb-biltrans" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc  -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -261,8 +261,8 @@
 
   <mode name="kir-uzb-lex" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc  -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -280,8 +280,8 @@
 
   <mode name="kir-uzb-transfer" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
@@ -302,8 +302,8 @@
 
   <mode name="kir-uzb-transfer2" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="kir-uzb.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="kir-uzb.automorf.bin"/>
       </program>
       <program name="cg-proc -n -w -1">
         <file name="kir-uzb.rlx.bin"/>
