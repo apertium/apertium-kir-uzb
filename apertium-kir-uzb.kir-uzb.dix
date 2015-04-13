@@ -102,19 +102,101 @@
     <!-- Соединительные -->
 
 <e>       <p><l>жана<s n="cnjcoo"/></l>             <r>va<s n="cnjcoo"/></r></p></e>
-<e>       <p><l>дагы<s n="cnjcoo"/></l>             <r>ham<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>дагы<s n="cnjcoo"/></l>             <r>hamda<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>да<s n="cnjcoo"/></l>               <r>ham<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>эмне<s n="cnjcoo"/></l>             <r>nima<s n="cnjcoo"/></r></p></e> 
+<!--e>       <p><l>гана<b/>эмес<s n="cnjcoo"/></l>     <r> <s n="cnjcoo"/></r></p></e--> 
 
     <!-- Противительные -->
 
 <e>       <p><l>бирок<s n="cnjcoo"/></l>            <r>lekin<s n="cnjcoo"/></r></p></e>
 
-<!-- SECTION: Postadverbs -->
+    <!-- Разделительные -->
 
+<e>       <p><l>же<s n="cnjcoo"/></l>               <r>yoki<s n="cnjcoo"/></r></p></e> 
+
+    <!-- Subordinating conjunction -->
+
+<e>       <p><l>эгер<s n="cnjsub"/></l>             <r>agar<s n="cnjsub"/></r></p></e>
+<e>       <p><l>эгерде<s n="cnjsub"/></l>           <r>agarda<s n="cnjsub"/></r></p></e>
+
+
+    <!-- Conjunctional adverb ~ Относительные слова -->
+
+<e>       <p><l>айтуу<b/>боюнча<s n="cnjadv"/></l>          <r>aytishicha<s n="cnjadv"/></r></p></e> 
+<!--e>       <p><l>деги<s n="cnjadv"/></l>                     <r> <s n="cnjadv"/></r></p></e--> 
+<e>       <p><l>антпесе<s n="cnjadv"/></l>                  <r>aks<b/>xolda<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>антсе<b/>да<s n="cnjadv"/></l>              <r>har<b/>holda<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>башкача<b/>айтканда<s n="cnjadv"/></l>      <r>boshqacha<b/>aytganda<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>андай<b/>деген<b/>менен<s n="cnjadv"/></l>  <r>unday<b/>degan<b/>bilan<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>жазышынча<s n="cnjadv"/></l>                <r>yozishicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>маалымдашынча<s n="cnjadv"/></l>            <r>xabar<b/>qilishicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>ошол<b/>себептен<s n="cnjadv"/></l>         <r>shu<b/>sababdan<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>пикиринче<s n="cnjadv"/></l>                <r>fikricha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>ошондо<b/>да<s n="cnjadv"/></l>             <r>o'shanda<b/>ham<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>ошондо<s n="cnjadv"/></l>                   <r>o'shanda<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>ошондуктан<s n="cnjadv"/></l>               <r>shuning<b/>uchun<s n="cnjadv"/></r></p></e>
+<e>       <p><l>сөздөрү<b/>боюнча<s n="cnjadv"/></l>        <r>so'zlari<b/>bo'yicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>сөзү<b/>боюнча<s n="cnjadv"/></l>           <r>so'zi<b/>bo'yicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>ошого<b/>карабастан<s n="cnjadv"/></l>      <r>har<b/>holda<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>кабарлашынча<s n="cnjadv"/></l>             <r>xabaricha<s n="cnjadv"/></r></p></e> 
+
+<e>       <p><l>айтканы<b/>менен<s n="cnjadv"/></l>         <r>aytkan<b/>bilan<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>айтуулары<b/>боюнча<s n="cnjadv"/></l>      <r>aytishi<b/>bo'yicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>оюнча<s n="cnjadv"/></l>                    <r>fikricha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>маалыматы<b/>боюнча<s n="cnjadv"/></l>      <r>ma'lumoti<b/>bo'yicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>баамдоосу<b/>боюнча<s n="cnjadv"/></l>      <r>tushunishi<b/>bo'yicha<s n="cnjadv"/></r></p></e> 
+<e>       <p><l>анткени<s n="cnjadv"/></l>                  <r>chunki<s n="cnjadv"/></r></p></e>
+<e>       <p><l>себеби<s n="cnjadv"/></l>                   <r>chunki<s n="cnjadv"/></r></p></e>
 
 <!-- SECTION: Postpositions -->
 
 <e>       <p><l>менен<s n="post"/></l>              <r>bilan<s n="post"/></r></p></e>
 <e>       <p><l>көздөй<s n="post"/></l>             <r>qarata<s n="post"/></r></p></e>
+
+<!--e>      <p><l>сыз<s n="post"/></l>                 <r> <s n="post"/></r></p></e>
+<e>      <p><l>луу<s n="post"/></l>                 <r> <s n="post"/></r></p></e-->
+
+<e>       <p><l>аркылуу<s n="post"/></l>          <r>orqali<s n="post"/></r></p></e> <!-- "through" -->
+<e>       <p><l>ары<s n="post"/></l>              <r>nari<s n="post"/></r></p></e>
+<e>       <p><l>башка<s n="post"/></l>            <r>boshqa<s n="post"/></r></p></e>
+<e>       <p><l>бери<s n="post"/></l>             <r>beri<s n="post"/></r></p></e>
+<e>       <p><l>бирге<s n="post"/></l>            <r>birga<s n="post"/></r></p></e>
+<e>       <p><l>бою<s n="post"/></l>              <r>bo'yi<s n="post"/></r></p></e>
+<e>       <p><l>боюнда<s n="post"/></l>           <r>bo'yida<s n="post"/></r></p></e>
+<e>       <p><l>боюнча<s n="post"/></l>           <r>bo'yicha<s n="post"/></r></p></e> <!-- "by, per, according to" -->
+<e>       <p><l>мурун<s n="post"/></l>            <r>burun<s n="post"/></r></p></e> 
+<e>       <p><l>көрү<s n="post"/></l>             <r>ko'ri<s n="post"/></r></p></e> 
+<e>       <p><l>чейин<s n="post"/></l>            <r>qadar<s n="post"/></r></p></e> <!-- "through" -->
+<e>       <p><l>жөнүндө<s n="post"/></l>          <r>haqida<s n="post"/></r></p></e> 
+<!--e>       <p><l>жакын<s n="post"/></l>            <r> <s n="post"/></r></p></e--> <!--FIXME according to Kyrgyz morphology жакын is not postposition-->
+<e>       <p><l>сыяктуу<s n="post"/></l>          <r>singari<s n="post"/></r></p></e> 
+<e>       <p><l>кийин<s n="post"/></l>            <r>keyin<s n="post"/></r></p></e--> <!-- "through" -->
+<e>       <p><l>караганда<s n="post"/></l>        <r>qaraganda<s n="post"/></r></p></e> 
+<e>       <p><l>карата<s n="post"/></l>           <r>qarata<s n="post"/></r></p></e> 
+<!--e>       <p><l>карамагында<s n="post"/></l>      <r> <s n="post"/></r></p></e--> <!--FIXME according to Kyrgyz morphology there is no postposition "карамагында"-->
+<!--e>       <p><l>карамагындагы<s n="post"/></l>    <r> <s n="post"/></r></p></e--> <!--FIXME according to Kyrgyz morphology there is no postposition "карамагындагы"-->
+<e>       <p><l>карабай<s n="post"/></l>          <r>qaramay<s n="post"/></r></p></e> <!--"regardless, despite"-->
+<e>       <p><l>карабастан<s n="post"/></l>       <r>qaramasdan<s n="post"/></r></p></e>
+<e>       <p><l>каршы<s n="post"/></l>            <r>qarshi<s n="post"/></r></p></e>
+<e>       <p><l>кошо<s n="post"/></l>             <r>birga<s n="post"/></r></p></e>
+<e>       <p><l>максатында<s n="post"/></l>       <r>maqsadida<s n="post"/></r></p></e>
+<e>       <p><l>сайын<s n="post"/></l>            <r>sayin<s n="post"/></r></p></e>
+<e>       <p><l>жараша<s n="post"/></l>           <r>yarasha<s n="post"/></r></p></e>
+<e>       <p><l>соң<s n="post"/></l>              <r>so'ng<s n="post"/></r></p></e>
+<e>       <p><l>чамасында<s n="post"/></l>        <r>chamasida<s n="post"/></r></p></e>
+<e>       <p><l>тууралуу<s n="post"/></l>         <r>to'g'risida<s n="post"/></r></p></e>
+<e>       <p><l>үчүн<s n="post"/></l>             <r>uchun<s n="post"/></r></p></e> <!-- "through" -->
+
+<e>       <p><l>катары<s n="post"/></l>           <r>qatori<s n="post"/></r></p></e> <!--""-->
+
+
+<!-- SECTION: Postadverbs -->
+
+<!--e>       <p><l>гана<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e>
+<e>       <p><l>эле<s n="postadv"/></l>           <r> <s n="postadv"/></r></p></e>
+<e>       <p><l>деле<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e>
+<e>       <p><l>дагы<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e-->
 
 
 <!-- SECTION: Numerals -->
@@ -201,11 +283,11 @@
 
     <!-- Demonstrative pronouns -->
 
-<!--e>       <p><l>бул<s n="prn"/><s n="dem"/></l>    <r><s n="prn"/><s n="dem"/></r></p></e>
-<e>       <p><l>ал<s n="prn"/><s n="dem"/></l>     <r><s n="prn"/><s n="dem"/></r></p></e-->
+<e>       <p><l>бул<s n="prn"/><s n="dem"/></l>    <r>bu<s n="prn"/><s n="dem"/></r></p></e>
+<e>       <p><l>ал<s n="prn"/><s n="dem"/></l>     <r>u<s n="prn"/><s n="dem"/></r></p></e>
 <e>       <p><l>ушул<s n="prn"/><s n="dem"/></l>   <r>shu<s n="prn"/><s n="dem"/></r></p></e>
-<!--e>       <p><l>ошол<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e>
-<e>       <p><l>тиги<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e>
+<e>       <p><l>ошол<s n="prn"/><s n="dem"/></l>   <r>o'sha<s n="prn"/><s n="dem"/></r></p></e>
+<!--e>       <p><l>тиги<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e>
 <e>       <p><l>мына<s n="prn"/><s n="dem"/></l>   <r><s n="prn"/><s n="dem"/></r></p></e--> <!--FIXME--> <!--Check the version in Kyrgyz transducer-->
 
     <!-- Interrogative pronouns -->
@@ -290,7 +372,7 @@
 <e>       <p><l>аба<b/>ырайы<s n="n"/></l>         <r>ob-havo<s n="n"/></r></p></e> <!--"whether,climate"-->
 <e>       <p><l>алд<s n="n"/></l>                  <r>old<s n="n"/></r></p></e> <!--"front"-->
 <e>       <p><l>арт<s n="n"/></l>                  <r>orqa<s n="n"/></r></p></e> <!--"back"-->
-<e>       <p><l>бакча<s n="n"/></l>                <r>bog'<s n="n"/></r></p></e> <!--"garden"-->
+<e>       <p><l>бакча<s n="n"/></l>                <r>bog'cha<s n="n"/></r></p></e> <!--"garden"-->
 <e>       <p><l>бала<s n="n"/></l>                 <r>bola<s n="n"/></r></p></e> <!--"child"-->
 <e>       <p><l>дарак<s n="n"/></l>                <r>daraxt<s n="n"/></r></p></e> <!--"tree"-->
 <e>       <p><l>жаш<s n="n"/></l>                  <r>yosh<s n="n"/></r></p></e> <!--"age"-->
@@ -305,6 +387,7 @@
 <e>       <p><l>терезе<s n="n"/></l>               <r>deraza<s n="n"/></r></p></e> <!--"window"-->
 <e>       <p><l>эне<s n="n"/></l>                  <r>ona<s n="n"/></r></p></e> <!--"mother"-->
 <e>       <p><l>эшик<s n="n"/></l>                 <r>eshik<s n="n"/></r></p></e> <!--"door"-->
+<e>       <p><l>оюн<s n="n"/></l>                  <r>o'yin<s n="n"/></r></p></e> <!--"game"-->
 
 
 	<!-- Anthroponyms -->
@@ -359,7 +442,7 @@
 
     <!-- Adverbs wich take -KI and become an attr/adj -->
 
-<e>       <p><l>кече<s n="adv"/></l>               <r>kecha<s n="adv"/></r></p></e> <!-- "yesterday > yesterday's" --> <!--TODO in kyrgyz these forms should rewritten кече, кечөө, кечээ-->
+<e>       <p><l>кечээ<s n="adv"/></l>               <r>kecha<s n="adv"/></r></p></e> <!-- "yesterday > yesterday's" --> <!--TODO in kyrgyz these forms should rewritten кече, кечөө, кечээ-->
 
 
 <!-- SECTION: Auxiliaries -->
@@ -391,6 +474,9 @@
 <e>       <p><l>тур<s n="v"/><s n="iv"/></l>        <r>tur<s n="v"/><s n="iv"/></r></p></e> <!--"to stand"  -->
 <e>       <p><l>укта<s n="v"/><s n="iv"/></l>       <r>uxla<s n="v"/><s n="iv"/></r></p></e> <!--"sleep"  -->
 <e>       <p><l>чурка<s n="v"/><s n="iv"/></l>      <r>yugur<s n="v"/><s n="iv"/></r></p></e> <!--"to run"  -->
+<e>       <p><l>кубан<s n="v"/><s n="iv"/></l>      <r>xursand<b/>bo'l<s n="v"/><s n="iv"/></r></p></e> <!--"to be happy"  -->
+<e>       <p><l>сана<s n="v"/><s n="tv"/></l>       <r>sana<s n="v"/><s n="tv"/></r></p></e> <!--"to count"  -->
+<e>       <p><l>кыл<s n="v"/><s n="tv"/></l>        <r>qil<s n="v"/><s n="tv"/></r></p></e> <!--"to do"  -->
 
 
 <!-- SECTION: Interjections -->
