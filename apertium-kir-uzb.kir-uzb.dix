@@ -171,7 +171,7 @@
 <e>       <p><l>жөнүндө<s n="post"/></l>          <r>haqida<s n="post"/></r></p></e> 
 <!--e>       <p><l>жакын<s n="post"/></l>            <r> <s n="post"/></r></p></e--> <!--FIXME according to Kyrgyz morphology жакын is not postposition-->
 <e>       <p><l>сыяктуу<s n="post"/></l>          <r>singari<s n="post"/></r></p></e> 
-<e>       <p><l>кийин<s n="post"/></l>            <r>keyin<s n="post"/></r></p></e--> <!-- "through" -->
+<e>       <p><l>кийин<s n="post"/></l>            <r>keyin<s n="post"/></r></p></e> <!-- "through" -->
 <e>       <p><l>караганда<s n="post"/></l>        <r>qaraganda<s n="post"/></r></p></e> 
 <e>       <p><l>карата<s n="post"/></l>           <r>qarata<s n="post"/></r></p></e> 
 <!--e>       <p><l>карамагында<s n="post"/></l>      <r> <s n="post"/></r></p></e--> <!--FIXME according to Kyrgyz morphology there is no postposition "карамагында"-->
