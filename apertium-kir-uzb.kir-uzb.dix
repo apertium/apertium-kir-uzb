@@ -193,8 +193,8 @@
 
 <!-- SECTION: Postadverbs -->
 
-<!--e>       <p><l>гана<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e>
-<e>       <p><l>эле<s n="postadv"/></l>           <r> <s n="postadv"/></r></p></e>
+<e>       <p><l>гана<s n="postadv"/></l>          <r>faqat<s n="postadv"/></r></p></e>
+<!--e>       <p><l>эле<s n="postadv"/></l>           <r> <s n="postadv"/></r></p></e>
 <e>       <p><l>деле<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e>
 <e>       <p><l>дагы<s n="postadv"/></l>          <r> <s n="postadv"/></r></p></e-->
 
@@ -370,25 +370,54 @@
 <!-- SECTION: Nouns -->
 
 <e>       <p><l>аба<b/>ырайы<s n="n"/></l>         <r>ob-havo<s n="n"/></r></p></e> <!--"whether,climate"-->
+<e>       <p><l>адам<s n="n"/></l>                 <r>odam<s n="n"/></r></p></e> <!--"man"-->
+<e>       <p><l>айбан<s n="n"/></l>                <r>hayvon<s n="n"/></r></p></e> <!--"animal"-->
+<e>       <p><l>айлана<s n="n"/></l>               <r>aylana<s n="n"/></r></p></e> <!--""-->
 <e>       <p><l>алд<s n="n"/></l>                  <r>old<s n="n"/></r></p></e> <!--"front"-->
+<e>       <p><l>аракет<s n="n"/></l>               <r>harakat<s n="n"/></r></p></e> <!--"move,activity"-->
 <e>       <p><l>арт<s n="n"/></l>                  <r>orqa<s n="n"/></r></p></e> <!--"back"-->
 <e>       <p><l>бакча<s n="n"/></l>                <r>bog'cha<s n="n"/></r></p></e> <!--"garden"-->
 <e>       <p><l>бала<s n="n"/></l>                 <r>bola<s n="n"/></r></p></e> <!--"child"-->
+<e>       <p><l>баш<s n="n"/></l>                  <r>bosh<s n="n"/></r></p></e> <!--"head,begining,start"-->
 <e>       <p><l>дарак<s n="n"/></l>                <r>daraxt<s n="n"/></r></p></e> <!--"tree"-->
+<e>       <p><l>жак<s n="n"/></l>                  <r>yoq<s n="n"/></r></p></e> <!--"place"-->
 <e>       <p><l>жаш<s n="n"/></l>                  <r>yosh<s n="n"/></r></p></e> <!--"age"-->
+<e>       <p><l>жооп<s n="n"/></l>                 <r>javob<s n="n"/></r></p></e> <!--"answer"-->
+<e>       <p><l>жылмаюу<s n="n"/></l>              <r>jilmayish<s n="n"/></r></p></e> <!--"smile"-->
+<e>       <p><l>ит<s n="n"/></l>                   <r>it<s n="n"/></r></p></e> <!--"dog"-->
 <e>       <p><l>карындаш<s n="n"/></l>             <r>singlim<s n="n"/></r></p></e> <!--"younger sister"-->
 <e>       <p><l>кол<s n="n"/></l>                  <r>qo'l<s n="n"/></r></p></e> <!--"hand"-->
 <e>       <p><l>көз<s n="n"/></l>                  <r>ko'z<s n="n"/></r></p></e> <!--"eye"-->
+<e>       <p><l>куш<s n="n"/></l>                  <r>qush<s n="n"/></r></p></e> <!--"bird"-->
 <e>       <p><l>күчүк<s n="n"/></l>                <r>kuchuk<s n="n"/></r></p></e> <!--"small dog / puppy"-->
 <e>       <p><l>кыз<s n="n"/></l>                  <r>qiz<s n="n"/></r></p></e> <!--"girl"-->
 <e>       <p><l>мышык<s n="n"/></l>                <r>mushuk<s n="n"/></r></p></e> <!--"cat"-->
+<e>       <p><l>нерсе<s n="n"/></l>                <r>narsa<s n="n"/></r></p></e> <!--"thing"-->
+<e>       <p><l>отургуч<s n="n"/></l>              <r>o'rindiq<s n="n"/></r></p></e> <!--"chair"-->
+<e>       <p><l>оюн<s n="n"/></l>                  <r>o'yin<s n="n"/></r></p></e> <!--"game"-->
+<e>       <p><l>суу<s n="n"/></l>                  <r>suv<s n="n"/></r></p></e> <!--"water"-->
+<e>       <p><l>убакыт<s n="n"/></l>               <r>vaqt<s n="n"/></r></p></e> <!--"time"-->
 <e>       <p><l>үй<s n="n"/></l>                   <r>uy<s n="n"/></r></p></e> <!--"house"-->
+<e>       <p><l>үн<s n="n"/></l>                   <r>sas<s n="n"/></r></p></e> <!--"voice, sound"-->
+<e>       <p><l>үстөл<s n="n"/></l>                <r>stol<s n="n"/></r></p></e> <!--"table"-->
 <e>       <p><l>себеп<s n="n"/></l>                <r>sabab<s n="n"/></r></p></e> <!--"reason, cause"-->
+<e>       <p><l>суроо<s n="n"/></l>                <r>so'roq<s n="n"/></r></p></e> <!--"question"-->
 <e>       <p><l>терезе<s n="n"/></l>               <r>deraza<s n="n"/></r></p></e> <!--"window"-->
 <e>       <p><l>эне<s n="n"/></l>                  <r>ona<s n="n"/></r></p></e> <!--"mother"-->
 <e>       <p><l>эшик<s n="n"/></l>                 <r>eshik<s n="n"/></r></p></e> <!--"door"-->
-<e>       <p><l>оюн<s n="n"/></l>                  <r>o'yin<s n="n"/></r></p></e> <!--"game"-->
 
+    <!-- Nouns used as postpositions when /posssessive.case/ -->
+
+<e>       <p><l>алд<s n="n"/></l>                 <r>old<s n="n"/></r></p></e> <!--"front"-->
+<e>       <p><l>ара<s n="n"/></l>                 <r>ora<s n="n"/></r></p></e> <!--"among"-->
+<e>       <p><l>арка<s n="n"/></l>                <r>orqa<s n="n"/></r></p></e> <!--"back"-->
+<e>       <p><l>арт<s n="n"/></l>                 <r>ort<s n="n"/></r></p></e> <!--"back"-->
+<e>       <p><l>аст<s n="n"/></l>                 <r>ost<s n="n"/></r></p></e> <!--"under"-->
+<e>       <p><l>бой<s n="n"/></l>                 <r>bo'y<s n="n"/></r></p></e> <!--""-->
+<e>       <p><l>жан<s n="n"/></l>                 <r>yon<s n="n"/></r></p></e> <!--"next to"-->
+<e>       <p><l>ич<s n="n"/></l>                  <r>ich<s n="n"/></r></p></e> <!--"inside"-->
+<e>       <p><l>орто<s n="n"/></l>                <r>o'rta<s n="n"/></r></p></e> <!--"middle"-->
+<e>       <p><l>үст<s n="n"/></l>                 <r>ust<s n="n"/></r></p></e> <!--"top"-->
 
 	<!-- Anthroponyms -->
 
@@ -420,15 +449,22 @@
 
 <e>       <p><l>жакшы<s n="adj"/></l>              <r>yaxshi<s n="adj"/></r></p></e> <!-- "good"-->
 <e>       <p><l>жылуу<s n="adj"/></l>              <r>issiq<s n="adj"/></r></p></e> <!-- "warm"-->
-<e>       <p><l>катуу<s n="adj"/></l>              <r>qattiq<s n="adj"/></r></p></e> <!-- "FIXME is it true translation"-->
+<e>       <p><l>катуу<s n="adj"/></l>              <r>qattiq<s n="adj"/></r></p></e> <!-- ""-->
+<e>       <p><l>көңүлдүү<s n="adj"/></l>           <r>quvonchli<s n="adj"/></r></p></e> <!-- "happy, cheerful"-->
 <e>       <p><l>суук<s n="adj"/></l>               <r>sovuq<s n="adj"/></r></p></e> <!-- "cold"-->
+<e>       <p><l>тунук<s n="adj"/></l>              <r>tiniq<s n="adj"/></r></p></e> <!--"clear"-->
 <e>       <p><l>чоң<s n="adj"/></l>                <r>katta<s n="adj"/></r></p></e> <!-- "big"-->
 <e>       <p><l>эски<s n="adj"/></l>               <r>eski<s n="adj"/></r></p></e> <!-- "old"-->
+<e>       <p><l>акырын<s n="adj"/></l>             <r>asta<s n="adv"/></r></p></e> <!--"quitely, carefully"-->
 
 
 <!-- SECTION: Adverbs -->
 
     <!-- "Interrogative adverbs", "pronoun-adverbs" -->
+
+<e>       <p><l>кайда<s n="adv"/><s n="itg"/></l>       <r>qayerda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+<e>       <p><l>кандай<s n="adv"/><s n="itg"/></l>      <r>qanday<s n="adv"/><s n="itg"/></r></p></e> <!-- "how" -->
+<e>       <p><l>качан<s n="adv"/><s n="itg"/></l>       <r>qachon<s n="adv"/><s n="itg"/></r></p></e> <!--"when"-->
 
     <!-- More or less regular stuff -->
 
@@ -437,6 +473,8 @@
 <e>       <p><l>аябай<s n="adv"/></l>               <r>juda<s n="adv"/></r></p></e> <!--"very"-->
 <e>       <p><l>бүгүн<s n="adv"/></l>               <r>bugun<s n="adv"/></r></p></e> <!-- today -->
 <e>       <p><l>дайыма<s n="adv"/></l>              <r>doimo<s n="n"/></r></p></e> <!-- constantly -->
+<e>       <p><l>жакын<s n="adj"/></l>               <r>yaqin<s n="adj"/></r></p></e> <!--"close"-->
+<e>       <p><l>кайра<s n="adv"/></l>               <r>yana<s n="adv"/></r></p></e> <!--"again"-->
 <e>       <p><l>чогуу<s n="adv"/></l>               <r>birga<s n="adv"/></r></p></e> <!-- together -->
 <e>       <p><l>эми<s n="adv"/></l>                 <r>endi<s n="adv"/></r></p></e> <!-- now -->
 
@@ -460,38 +498,57 @@
 
 <!-- SECTION: Verbs -->
 
+<e>       <p><l>айт<s n="v"/><s n="tv"/></l>        <r>ayt<s n="v"/><s n="tv"/></r></p></e> <!-- "to say" -->
 <e>       <p><l>бар<s n="v"/><s n="iv"/></l>        <r>bor<s n="v"/><s n="iv"/></r></p></e> <!--"go"  -->
+<!--e>       <p><l>бас<s n="v"/><s n="iv"/></l>        <r> <s n="v"/><s n="iv"/></r></p></e--> <!-- "walk" -->
+<e>       <p><l>бас<s n="v"/><s n="tv"/></l>        <r>bos<s n="v"/><s n="tv"/></r></p></e> <!-- "press" -->
+<e>       <p><l>башта<s n="v"/><s n="tv"/></l>      <r>boshla<s n="v"/><s n="tv"/></r></p></e> <!--"start"  -->
 <e>       <p><l>бил<s n="v"/><s n="tv"/></l>        <r>bil<s n="v"/><s n="tv"/></r></p></e> <!-- "to know" -->
+<e>       <p><l>бол<s n="v"/><s n="iv"/></l>        <r>bo'l<s n="v"/><s n="iv"/></r></p></e> <!-- "to be" -->
+<e>       <p><l>бүт<s n="v"/><s n="iv"/></l>        <r>bit<s n="v"/><s n="iv"/></r></p></e> <!--"finish"  -->
+<e>       <p><l>де<s n="v"/><s n="tv"/></l>         <r>de<s n="v"/><s n="tv"/></r></p></e> <!-- "say" -->
 <e>       <p><l>жап<s n="v"/><s n="tv"/></l>        <r>yop<s n="v"/><s n="tv"/></r></p></e> <!-- "to close" -->
 <e>       <p><l>жат<s n="v"/><s n="iv"/></l>        <r>yot<s n="v"/><s n="iv"/></r></p></e><!-- "lie" -->
 <e>       <p><l>жашын<s n="v"/><s n="iv"/></l>      <r>berkin<s n="v"/><s n="iv"/></r></p></e><!-- "to hide" -->
+<e>       <p><l>же<s n="v"/><s n="tv"/></l>         <r>ye<s n="v"/><s n="tv"/></r></p></e> <!-- "eat" -->
 <e>       <p><l>жүр<s n="v"/><s n="iv"/></l>        <r>yur<s n="v"/><s n="iv"/></r></p></e><!-- "go about" -->
+<e>       <p><l>изде<s n="v"/><s n="tv"/></l>       <r>izla<s n="v"/><s n="tv"/></r></p></e> <!--"look for"  -->
+<e>       <p><l>ич<s n="v"/><s n="tv"/></l>         <r>ich<s n="v"/><s n="tv"/></r></p></e> <!--"drink"  -->
+<e>       <p><l>кайт<s n="v"/><s n="iv"/></l>       <r>qayt<s n="v"/><s n="iv"/></r></p></e> <!--"return"  -->
+<e>       <p><l>кара<s n="v"/><s n="iv"/></l>       <r>qara<s n="v"/><s n="iv"/></r></p></e> <!-- "to look" -->
+<e>       <p><l>кел<s n="v"/><s n="iv"/></l>        <r>kel<s n="v"/><s n="iv"/></r></p></e> <!-- "come" -->
+<e>       <p><l>кет<s n="v"/><s n="iv"/></l>        <r>ket<s n="v"/><s n="iv"/></r></p></e> <!--"go away"  -->
+<e>       <p><l>көр<s n="v"/><s n="tv"/></l>        <r>kor<s n="v"/><s n="tv"/></r></p></e> <!-- "to see" -->
+<e>       <p><l>кубан<s n="v"/><s n="iv"/></l>      <r>xursand<b/>bo'l<s n="v"/><s n="iv"/></r></p></e> <!--"to be happy"  -->
+<e>       <p><l>күл<s n="v"/><s n="iv"/></l>        <r>kul<s n="v"/><s n="iv"/></r></p></e> <!-- "smile, laugh" -->
+<e>       <p><l>кыл<s n="v"/><s n="tv"/></l>        <r>qil<s n="v"/><s n="tv"/></r></p></e> <!--"to do"  -->
+<e>       <p><l>ойло<s n="v"/><s n="tv"/></l>       <r>o%'yla<s n="v"/><s n="tv"/></r></p></e> <!-- "think (about)" -->
 <e>       <p><l>ойно<s n="v"/><s n="iv"/></l>       <r>uyna<s n="v"/><s n="iv"/></r></p></e> <!-- "play" -->
 <e>       <p><l>ойно<s n="v"/><s n="tv"/></l>       <r>uyna<s n="v"/><s n="tv"/></r></p></e> <!-- "play" -->
-<e>       <p><l>кара<s n="v"/><s n="iv"/></l>       <r>qara<s n="v"/><s n="iv"/></r></p></e> <!-- "to look" -->
-<e>       <p><l>көр<s n="v"/><s n="tv"/></l>        <r>kor<s n="v"/><s n="tv"/></r></p></e> <!-- "to see" -->
 <e>       <p><l>отур<s n="v"/><s n="iv"/></l>       <r>o'tir<s n="v"/><s n="iv"/></r></p></e> <!--"to sit"  -->
+<e>       <p><l>сана<s n="v"/><s n="tv"/></l>       <r>sana<s n="v"/><s n="tv"/></r></p></e> <!--"to count"  -->
+<e>       <p><l>сура<s n="v"/><s n="tv"/></l>       <r>so'ra<s n="v"/><s n="tv"/></r></p></e> <!--"to ask"  -->
+<e>       <p><l>сүйлө<s n="v"/><s n="iv"/></l>      <r>gapir<s n="v"/><s n="tv"/></r></p></e> <!--"to speak"  -->
+<e>       <p><l>тап<s n="v"/><s n="tv"/></l>        <r>top<s n="v"/><s n="tv"/></r></p></e> <!-- "find" -->
 <e>       <p><l>тур<s n="v"/><s n="iv"/></l>        <r>tur<s n="v"/><s n="iv"/></r></p></e> <!--"to stand"  -->
+<e>       <p><l>тыңша<s n="v"/><s n="iv"/></l>      <r>tingla<s n="v"/><s n="iv"/></r></p></e> <!--"listen carefully/closely"  -->
+<e>       <p><l>ук<s n="v"/><s n="tv"/></l>         <r>eshit<s n="v"/><s n="tv"/></r></p></e> <!-- "hear" -->
 <e>       <p><l>укта<s n="v"/><s n="iv"/></l>       <r>uxla<s n="v"/><s n="iv"/></r></p></e> <!--"sleep"  -->
 <e>       <p><l>чурка<s n="v"/><s n="iv"/></l>      <r>yugur<s n="v"/><s n="iv"/></r></p></e> <!--"to run"  -->
-<e>       <p><l>кубан<s n="v"/><s n="iv"/></l>      <r>xursand<b/>bo'l<s n="v"/><s n="iv"/></r></p></e> <!--"to be happy"  -->
-<e>       <p><l>сана<s n="v"/><s n="tv"/></l>       <r>sana<s n="v"/><s n="tv"/></r></p></e> <!--"to count"  -->
-<e>       <p><l>кыл<s n="v"/><s n="tv"/></l>        <r>qil<s n="v"/><s n="tv"/></r></p></e> <!--"to do"  -->
+<e>       <p><l>чык<s n="v"/><s n="iv"/></l>        <r>chiq<s n="v"/><s n="iv"/></r></p></e> <!--"go out"  -->
 
 
 <!-- SECTION: Interjections -->
 
 <e>       <p><l>эй<s n="ij"/></l>                 <r>ey<s n="ij"/></r></p></e>
 <e>       <p><l>баракелде<s n="ij"/></l>          <r>barakalla<s n="ij"/></r></p></e>
-<!--e>       <p><l>баса<s n="ij"/></l>               <r><s n="ij"/></r></p></e>
-<e>       <p><l>болуптур<s n="ij"/></l>           <r><s n="ij"/></r></p></e>
-<e>       <p><l>аттигинай<s n="ij"/></l>          <r><s n="ij"/></r></p></e>
-<e>       <p><l>демек<s n="ij"/></l>              <r><s n="ij"/></r></p></e>
-<e>       <p><l>дурус<s n="ij"/></l>              <r><s n="ij"/></r></p></e>
-<e>       <p><l>э<s n="ij"/></l>                  <r><s n="ij"/></r></p></e>
-<e>       <p><l>ооба<s n="ij"/></l>               <r><s n="ij"/></r></p></e>
-<e>       <p><l>албетте<s n="ij"/></l>            <r><s n="ij"/></r></p></e>
-<e>       <p><l>аттиң<s n="ij"/></l>              <r><s n="ij"/></r></p></e>
+<e>       <p><l>баса<s n="ij"/></l>               <r>aytganday<s n="ij"/></r></p></e>
+<!--e>       <p><l>аттигинай<s n="ij"/></l>          <r><s n="ij"/></r></p></e-->
+<e>       <p><l>демек<s n="ij"/></l>              <r>demak<s n="ij"/></r></p></e>
+<!--e>       <p><l>дурус<s n="ij"/></l>              <r><s n="ij"/></r></p></e>
+<e>       <p><l>э<s n="ij"/></l>                  <r><s n="ij"/></r></p></e-->
+<e>       <p><l>албетте<s n="ij"/></l>            <r>albatta<s n="ij"/></r></p></e> <!--"of course" -->
+<!--e>       <p><l>аттиң<s n="ij"/></l>              <r><s n="ij"/></r></p></e>
 <e>       <p><l>жарайт<s n="ij"/></l>             <r><s n="ij"/></r></p></e-->
 <e>       <p><l>жок<s n="ij"/></l>                <r>yo'q<s n="ij"/></r></p></e>
 <e>       <p><l>ооба<s n="ij"/></l>               <r>ha<s n="ij"/></r></p></e>
